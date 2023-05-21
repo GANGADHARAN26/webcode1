@@ -1,0 +1,40 @@
+div{
+    background: #fc4a1a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+body{
+    background-color: darkgreen;
+}
+h1{
+    font-family: 'cursive';
+    margin-top: 50px;
+}
+a:hover{
+          color:#230c8b;
+}
+a:link{
+    text-decoration: none;
+    color: azure;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+a{
+background-color:blueviolet;
+}
+
+
+.search{
+    padding-left: 40%;
+}
